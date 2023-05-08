@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "motor.png",
+      "title": "Motor",
+      "description": "Motor seleccionado directamente en España con menos de 25 mil kilometros",
+      "precio": 400,
+      "total": 420
+    },
+    {
+      "id": 2,
+      "img": "nevera.png",
+      "title": "Nevera",
+      "description": "Cuenta con amplios espacios que permiten que tus alimentos estén mejor organizados. Cuenta con dispensador de hielo y agua automático",
+      "precio": 650,
+      "total": 660
+    }
+  ]
+}
